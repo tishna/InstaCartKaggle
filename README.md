@@ -1,2 +1,2 @@
-# InstaCartKaggle
+# Cart
 Kaggle Insta Cart
